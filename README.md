@@ -59,6 +59,14 @@ mvn compile
 java -cp target/classes br.uepb.eda.Main ordenacao
 ```
 
+**Windows (PowerShell) sem Maven (só JDK):**
+
+```powershell
+mkdir out
+javac -d out (Get-ChildItem -Recurse src\main\java -Filter *.java).FullName
+java -cp out br.uepb.eda.Main ordenacao
+```
+
 **Gráficos:**
 
 ```bash
