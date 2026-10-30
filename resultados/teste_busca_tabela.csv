@@ -1,0 +1,4 @@
+tamanho,BuscaLinearIterativa_ns,BuscaLinearRecursiva_ns,BuscaLinearDuasPontas_ns,BuscaBinariaIterativa_ns,BuscaBinariaRecursiva_ns
+1000,171.1200,1667.2200,479.1000,67.2800,49.2800
+10000,2349.8000,17289.2000,2865.1600,63.2400,66.9600
+100000,20413.4000,238023.4400,25822.5800,21.8000,23.0000

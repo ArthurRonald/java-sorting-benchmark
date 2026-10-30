@@ -1,0 +1,30 @@
+---- 2026-10-30T12:16:38 | modo: teste ----
+Java: 26.0.1 (Java HotSpot(TM) 64-Bit Server VM)
+Sistema: Windows 11 10.0 (amd64)
+Núcleos disponíveis: 12
+Memória máxima da JVM: 4028 MB
+Execuções por combinação: 25 (descartadas como warm-up: 5)
+---- 2026-10-30T12:17:01 | modo: busca ----
+Java: 26.0.1 (Java HotSpot(TM) 64-Bit Server VM)
+Sistema: Windows 11 10.0 (amd64)
+Núcleos disponíveis: 12
+Memória máxima da JVM: 4028 MB
+Execuções por combinação: 25 (descartadas como warm-up: 5)
+---- 2026-10-30T12:21:06 | modo: ordenacao ----
+Java: 26.0.1 (Java HotSpot(TM) 64-Bit Server VM)
+Sistema: Windows 11 10.0 (amd64)
+Núcleos disponíveis: 12
+Memória máxima da JVM: 4028 MB
+Execuções por combinação: 25 (descartadas como warm-up: 5)
+---- 2026-10-30T13:01:53 | modo: ordenacao-grande ----
+Java: 26.0.1 (Java HotSpot(TM) 64-Bit Server VM)
+Sistema: Windows 11 10.0 (amd64)
+Núcleos disponíveis: 12
+Memória máxima da JVM: 4028 MB
+Execuções por combinação: 25 (descartadas como warm-up: 5)
+---- 2026-10-30T16:15:46 | modo: teste ----
+Java: 26.0.1 (Java HotSpot(TM) 64-Bit Server VM)
+Sistema: Windows 11 10.0 (amd64)
+Núcleos disponíveis: 12
+Memória máxima da JVM: 4028 MB
+Execuções por combinação: 25 (descartadas como warm-up: 5)
